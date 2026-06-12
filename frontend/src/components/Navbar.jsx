@@ -14,7 +14,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-brand">
         <Link to="/" className="navbar-logo">
-          <span className="logo-icon">✦</span> Avidus
+          Avidus
         </Link>
       </div>
 
